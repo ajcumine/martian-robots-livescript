@@ -47,3 +47,21 @@ LLFFFLFLFL
 3 3 N LOST
 2 3 S
 ```
+
+###The Solution:
+
+####About
+
+This is a rewrite of my [martian robots coding challenge](https://github.com/ajcumine/martian-robots). It is being used to practice TDD/BDD using Node, LiveScript, Mocha ,and Chai.
+
+####Installing
+
+Clone this repository and run the following command to install the required dependecies:
+
+    $ npm install
+
+####Testing
+
+To run the Mocha tests use:
+
+    $ npm test
