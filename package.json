@@ -13,6 +13,6 @@
     "chai": "*"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha --compilers ls:LiveScript"
+    "test": "./node_modules/.bin/mocha --compilers ls:LiveScript --require test/helpers/chai.ls"
   }
 }
